@@ -1,2 +1,9 @@
-# CODEALPHA-TASK-3
-🔹 Task 3: Handwritten Character Recognition Developed a deep learning model to recognize handwritten digits and characters from image data. Utilized Convolutional Neural Networks (CNN) for feature extraction and classification. Designed to work with MNIST and EMNIST datasets, with potential for extension to full word recognition using CRNN. 
+🚀 CodeAlpha Internship - Task 3
+✍️ Handwritten Character Recognition
+📌 Objective: Identify handwritten digits and alphabets using deep learning.
+🛠️ Approach: Applied image processing techniques with Convolutional Neural Networks (CNN).
+📊 Features:
+     📂 Used MNIST (digits) and EMNIST (characters) datasets
+     🧠 Built and trained a CNN model for high accuracy
+     🔡 Extendable to word/sentence recognition using CRNN
+
